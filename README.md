@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Intel Corporation as a Cloud Software Engineer.<br>🌱 I’m a man with passion for programming and hungry for new challenges.<br>🤝 I’m open to cooperation.<br>📬 Shoot me an Email or add me on LinkedIn :)
+🌱 I’m a man with passion for programming and hungry for new challenges.<br>🤝 I’m open to cooperation.<br>📬 Shoot me an Email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
